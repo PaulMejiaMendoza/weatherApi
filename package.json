@@ -1,0 +1,22 @@
+{
+  "name": "weatherapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulMejiaMendoza/weatherApi.git"
+  },
+  "author": "Paul Mejia Mendoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulMejiaMendoza/weatherApi/issues"
+  },
+  "homepage": "https://github.com/PaulMejiaMendoza/weatherApi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
